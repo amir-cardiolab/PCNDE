@@ -8,6 +8,8 @@ This repository contains the Julia/ipynb codes for the following paper:
 
 Hunor Csala, Arvind Mohan, Daniel Livescu, Amirhossein Arzani
 
+Paper published in Computers in Biology and Medicine: [https://doi.org/10.1016/j.compbiomed.2024.109644](https://doi.org/10.1016/j.compbiomed.2024.109644)
+
 Preprint on arXiv: [https://arxiv.org/abs/2411.05631](https://arxiv.org/abs/2411.05631)
 
 ---
