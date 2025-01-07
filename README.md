@@ -25,4 +25,4 @@ PCNDE_InferenceFitPressure.ipynb has the PCNDE model in inference mode, and the 
 
 
 ___
- <img src="./TrainTest_figure.jpg/4DFlowMRI.png" alt="show" style="zoom:70%;" /> 
+ <img src="./TrainTest_figure.jpg" alt="show" style="zoom:70%;" /> 
