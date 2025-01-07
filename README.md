@@ -21,4 +21,8 @@ The trained_weights directory contains the trained weights for the momentum and 
 
 PCNDE_train_QS.jl has the momentum and continuity equation training.
 
-PCNDE_InferenceFitPressure.ipynb has the PCNDE model in inference mode, and the pressure model in training/inference mode. This jupyter notebook also has some of the plots from the paper, for example parts of Fig. 4, Fig. 5, Fig. 6 and Fig. 7. Note that some of the heatmaps don't render well on GitHub so they have been commented out.
+PCNDE_InferenceFitPressure.ipynb has the PCNDE model in inference mode, and the pressure model in training/inference mode. This jupyter notebook also has some of the plots from the paper, for example parts of Fig. 4, Fig. 5, Fig. 6 and Fig. 7. Note that some of the heatmaps don't render well on GitHub so they have been commented out. Also note that the pressure model is trained for a few more epochs in transfer learning mode, the final numerical results are all either equal or slightly better than the values presented in the paper.
+
+
+___
+ <img src="./TrainTest_figure.jpg/4DFlowMRI.png" alt="show" style="zoom:70%;" /> 
